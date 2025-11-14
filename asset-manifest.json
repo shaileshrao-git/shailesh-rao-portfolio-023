@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ac3af311.css",
-    "main.js": "/portfolio/static/js/main.c3bc9a8b.js",
-    "static/js/453.b05d8aa5.chunk.js": "/portfolio/static/js/453.b05d8aa5.chunk.js",
-    "static/media/bg-light.png": "/portfolio/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/mock03.png": "/portfolio/static/media/mock03.693dc52b3722ce8512d7.png",
-    "static/media/mock01.png": "/portfolio/static/media/mock01.1118dde7cedc065dc658.png",
-    "static/media/bg-dark.png": "/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/mock02.png": "/portfolio/static/media/mock02.24aed2a3997a098bf915.png",
-    "index.html": "/portfolio/index.html",
-    "main.ac3af311.css.map": "/portfolio/static/css/main.ac3af311.css.map",
-    "main.c3bc9a8b.js.map": "/portfolio/static/js/main.c3bc9a8b.js.map",
-    "453.b05d8aa5.chunk.js.map": "/portfolio/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/shailesh-rao-portfolio-023/static/css/main.e6295195.css",
+    "main.js": "/shailesh-rao-portfolio-023/static/js/main.bc53f235.js",
+    "static/js/453.b05d8aa5.chunk.js": "/shailesh-rao-portfolio-023/static/js/453.b05d8aa5.chunk.js",
+    "static/media/bg-light.png": "/shailesh-rao-portfolio-023/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/mock03.png": "/shailesh-rao-portfolio-023/static/media/mock03.693dc52b3722ce8512d7.png",
+    "static/media/mock01.png": "/shailesh-rao-portfolio-023/static/media/mock01.1118dde7cedc065dc658.png",
+    "static/media/bg-dark.png": "/shailesh-rao-portfolio-023/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock02.png": "/shailesh-rao-portfolio-023/static/media/mock02.24aed2a3997a098bf915.png",
+    "index.html": "/shailesh-rao-portfolio-023/index.html",
+    "main.e6295195.css.map": "/shailesh-rao-portfolio-023/static/css/main.e6295195.css.map",
+    "main.bc53f235.js.map": "/shailesh-rao-portfolio-023/static/js/main.bc53f235.js.map",
+    "453.b05d8aa5.chunk.js.map": "/shailesh-rao-portfolio-023/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac3af311.css",
-    "static/js/main.c3bc9a8b.js"
+    "static/css/main.e6295195.css",
+    "static/js/main.bc53f235.js"
   ]
 }
